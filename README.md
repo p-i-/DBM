@@ -42,9 +42,7 @@ Features of the rework include:
 * Console outputs are now human readable, rather than a zillion Lines flashing before your eyes.
 * I've rewritten pretty much every little piece of machinery, frequently finding cleaner ways of doing things. 
 
-Pretty much every single idea has been unpicked and reconstructed.  However, I still have a very incomplete understanding of the underlying process.  While I have fixed several bugs I suspect I have introduced a couple more (although it appears to perform at least as well as the original).  During one particular edit I was able to get startling training accuracy (<1000 misclassifications for stage 3, typically it generates ~4k) however MatLab crashed and I lost my work and I was unable remember the steps necessary to recreate. Vexing! I have no idea if it was a statistical anomaly.
-
-If any ML expert can (help me) clean this up, I am most grateful.  I can generally be found on ##machinelearning on IRC (Freenode server).
+I can generally be found on ##machinelearning on IRC (Freenode server).
 
 ## SOURCES
   I'm not quite sure if this code pertains to exactly one academic paper.  Plausible candidates I have found are:
